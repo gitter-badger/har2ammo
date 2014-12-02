@@ -1,5 +1,6 @@
 # har2ammo 
 =============
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/banzalik/har2ammo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status][travis-img]][travis-url]
 [![NPM Downloads][downloads-img]][downloads-url]
 
